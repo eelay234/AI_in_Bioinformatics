@@ -1,5 +1,5 @@
 # AI in Bioinformatics
-This project explores how Machine learning, deep neural network, and natural language processing techniques can be applied to Boinformatics in the areas of gene/protein expression, sequence analysis, strucural bioinformatics, network and system biology[1].
+This project explores how machine learning, deep neural network, and natural language processing techniques can be applied to Boinformatics in the areas of gene/protein expression, sequence analysis, strucural bioinformatics, network and system biology[1].
 
 The main steps are as follows:
 First, data are collected and converted to the format if necessary that can be used by the programs, for example, .arff to .csv file.
